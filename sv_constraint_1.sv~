@@ -31,7 +31,6 @@ endclass
 
 module tb;
   item obj;
-
   int aso [int];
   initial begin
     obj=new();
